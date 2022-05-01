@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carollol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+1. install dependencies for the solution
+`pip install python-jellyfish scikit-learn pandas numpy`
+   
+2. run the solution
+`python code.py`
 
 <!---
 carollol/carollol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
